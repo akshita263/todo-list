@@ -1,0 +1,11 @@
+h5.title{
+  margin: 0px;;
+}
+
+li.list-group-item.my-2.justify-content-between.d-flex{
+  padding: 8px 20px 3px 20px;
+}
+
+#main{
+  background-color: rgba(0, 0, 0, 0.09);
+}
